@@ -1,0 +1,17 @@
+venv/
+venv39/
+__pycache__/
+*.pyc
+
+.env
+.streamlit/secrets.toml
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Training datasets
+data/
+dataset/
